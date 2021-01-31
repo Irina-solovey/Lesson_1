@@ -1,2 +1,6 @@
-# Lesson_1
-Lesson 1
+"Hello World!"
+
+    Knock, knock.
+    Who's there?
+     
+    Git.
